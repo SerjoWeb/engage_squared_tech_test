@@ -7,4 +7,4 @@
 ---
 
 VITE_API_URL=https://api.tfl.gov.uk/BikePoint/
-VITE_APP_GOOGLE_API_KEY=AIzaSyCps9MsCYLJhns1oXQmJPWhirNlywpRSj4
+VITE_APP_GOOGLE_API_KEY=<your_google_api_key>
